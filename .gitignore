@@ -5,6 +5,7 @@
 # Session Data files
 .RData
 .RDataTmp
+rstudio_test.Rproj
 
 # User-specific files
 .Ruserdata
@@ -20,6 +21,7 @@
 
 # RStudio files
 .Rproj.user/
+.git/
 
 # produced vignettes
 vignettes/*.html
@@ -41,6 +43,7 @@ vignettes/*.pdf
 
 # pkgdown site
 docs/
+
 
 # translation temp files
 po/*~
